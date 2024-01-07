@@ -1,0 +1,17 @@
+main
+bin/
+src/src
+.DS_Store
+build
+out
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+
+.idea/
+*.code-workspace
+*.iml
+*.sw[po]
+*.un~
